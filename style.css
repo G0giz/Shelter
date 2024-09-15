@@ -13,4 +13,10 @@ ul{
 ul li > img{
     width: 200px;
     height: 150px;
+    border: 1px solid black;
+}
+
+.NameOfAnimal{
+    font-size: x-large;
+    font-weight: bold;
 }
