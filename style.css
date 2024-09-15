@@ -4,3 +4,11 @@ body{
     text-align: center;
 }
 
+ul{
+    list-style-type: none;
+}
+
+ul li > img{
+    width: 200px;
+    height: 150px;
+}
